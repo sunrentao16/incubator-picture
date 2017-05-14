@@ -1,2 +1,2 @@
 # incubator-picture
-![Alt text](plot_pred (2).tif?raw=true "Optional Title")
+![Alt text](plot_pred_2.jpg?raw=true "Optional Title")
